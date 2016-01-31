@@ -1,0 +1,79 @@
+INTROSE
+Analysts:							                   Documented on: Jan 15, 16 
+Arevalo, Mark Anthony
+Santos, Kit
+Shen, Andric
+GIOVANA INTERVIEW QUESTIONS
+
+Client:           	
+Company Name: GIOVANA
+Contact Person: Jean Macavinta 
+Contact Number: 0917 811 1570
+Description: Giovana is a clothing company. They have numerous locations that record that individually record their inventories. Each location records their inventory by hand using a logbook.
+
+Objective:
+1.	Confirm the client information given above.
+2.	Extract the process and problems of recording inventory.
+3.	Extract other processes done by the interviewee and find its problems.
+4.	Find the technical status of the location/s of the company.
+5.	Verify the gathered information to the client.
+6.	Set the next interview.
+
+Pre-interview Questions:
+1.	As a requirement for our class, we have to record this interview. Is that okay with you?
+2.	For our mode of conversation, in which language are you more comfortable with: English or Tagalog?
+
+Interview Questions:
+3.	Mrs. Macavinta. According to Hiroki, you are the owner of the company: GIOVANA. Is this correct?
+a.	(if not owner) What is your position in this company?
+4.	For the past week, what are your everyday tasks as a/an (interviewee’s position) in this company? 
+a.	Take note of the interviewee’s everyday tasks (Highlight possible project tasks). 
+b.	Follow up about the developable tasks of the interviewee. 
+i.	(Per task) When was the last time you did this task?
+ii.	(Per task) Based on the last time you did this task, how did you perform it?
+iii.	(Per task) Did you experience any problems when you performed this task?
+iv.	(Per task) Ask additional questions if needed.
+5.	Based on the information given to us by Hiroki, GIOVANA is a clothing company that records its inventory manually through writing on logbooks. Is this true?  
+6.	(if yes) Ask the following questions: 
+a.	Who does this task?
+b.	Is it possible to interview the people who do this task? 
+i.	if yes, set an interview.
+c.	Where are the products stored? (centralized warehouse/each branch has storage, get storage location)
+d.	How does the process of recording inventory work currently (step by step process)?
+i.	Ask follow up questions regarding the process (frequency, etc.)
+ii.	How long does this process take?
+iii.	When products are delivered to you how is it recorded in the logbook? 
+iv.	When a customer purchases (bulk/retail), how is it recorded in the logbook?
+v.	What important information do you include in the logbook entries?
+vi.	Did you experience any problems in the past week regarding this process?
+vii.	How do you get rid of old/unsellable stock? Is it recorded in the logbook?
+viii.	Is there any way of detecting if some items go missing?
+ix.	Under what conditions is the logbook altered?
+x.	(If no problems based on time) Adjust time period.
+xi.	(If interviewee can not find problems) Find problems via follow up questions.
+7.	(if no) What is the process of recording inventory then?
+a.	Ask questions 6A to 6D (6A to 6D corresponds to the logbook process. In this case, alter 6A to 6D to correspond to the interviewees process).
+
+Technical Questions:
+8.	How many locations/branches do your company have?
+9.	Do these locations have computers?
+a.	What Operating System do these computers operate on?
+b.	Follow up on additional specs that might be relevant.
+10.	About these locations, which of these locations have internet connection?
+11.	If interviewee could not answer the questions for this section, ask interviewee who can.
+12.	Dev, ask additional questions regarding the technical aspects for the project.
+
+Post Interview:
+13.	Give feedback and get verification about the information gathered from the interview. 
+14.	Once verified, state the problem based on the information gathered.
+15.	Inform the interviewee that the solution for the stated problem would be made in a few days/weeks/months/years.
+16.	Suggest other types of elicitation (such as sample documents, interviews, etc). 
+a.	Can we photocopy one of your more recent logbooks?
+17.	Set tentative dates for the next interview/s. 
+a.	If client is too busy or unavailable on dates when he/she is needed, have a means of communication (through e-mail, text, etc).
+b.	Set next interview with the interviewee and other relevant people.
+
+
+<don’t know if these questions are necessary just ignore if it isn’t; and i changed ques 8 >
+-Can we get a complete product listing? (what is a product listing?)
+
